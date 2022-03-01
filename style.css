@@ -1,0 +1,33 @@
+body
+{
+    text-align: center;
+}
+.container
+{
+  background-color: mediumaquamarine;  
+}
+#app 
+{
+    background-color: rgb(118, 163, 202);
+    font-family: serif;
+    color: bisque;
+}
+
+#myCarousel
+{
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : white;
+    font-size: 20px;
+}
